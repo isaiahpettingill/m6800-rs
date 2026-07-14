@@ -1,0 +1,11 @@
+[package]
+name = "m6800"
+version = "0.1.0"
+edition = "2021"
+description = "Motorola M6800 emulator core ported from moon6800 (Lua)"
+license = "MIT"
+repository = "https://github.com/isaiahpettingill/m6800-rs"
+
+[dependencies]
+
+[dev-dependencies]
